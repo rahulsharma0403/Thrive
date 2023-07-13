@@ -1,0 +1,99 @@
+{
+  "companyId": 1,
+  "companyName": "Blue Cat Inc.",
+  "userEmailed": [],
+  "userNotEmailed": [
+    "Lynch,Eileen,eileen.lynch@fake.com",
+    "Previous Token Balance ,40",
+    "New Token Balance 111",
+    "Carr,Genesis,genesis.carr@demo.com",
+    "Previous Token Balance ,71",
+    "New Token Balance 142"
+  ],
+  "totalAmount": 142
+}{
+  "companyId": 2,
+  "companyName": "Yellow Mouse Inc.",
+  "userEmailed": [
+    "Simpson,Edgar,edgar.simpson@notreal.com",
+    "Previous Token Balance ,67",
+    "New Token Balance 104",
+    "Boberson,Bob,bob.boberson@test.com",
+    "Previous Token Balance ,23",
+    "New Token Balance 60",
+    "Boberson,John,john.boberson@test.com",
+    "Previous Token Balance ,15",
+    "New Token Balance 52"
+  ],
+  "userNotEmailed": [
+    "Weaver,Sebastian,sebastian.weaver@fake.com",
+    "Previous Token Balance ,66",
+    "New Token Balance 103",
+    "Gordon,Sara,sara.gordon@test.com",
+    "Previous Token Balance ,22",
+    "New Token Balance 59"
+  ],
+  "totalAmount": 185
+}{
+  "companyId": 3,
+  "companyName": "Red Horse Inc.",
+  "userEmailed": [
+    "George,Mary,mary.george@test.com",
+    "Previous Token Balance ,37",
+    "New Token Balance 92",
+    "Jimerson,Jim,jim.jimerson@test.com",
+    "Previous Token Balance ,10",
+    "New Token Balance 65",
+    "Nederson,Ned,ned.nederson@test.com",
+    "Previous Token Balance ,3",
+    "New Token Balance 58"
+  ],
+  "userNotEmailed": [
+    "Castro,Monica,monica.castro@notreal.com",
+    "Previous Token Balance ,69",
+    "New Token Balance 124",
+    "Dean,Claire,claire.dean@test.com",
+    "Previous Token Balance ,98",
+    "New Token Balance 153",
+    "Silva,Elsie,elsie.silva@fake.com",
+    "Previous Token Balance ,49",
+    "New Token Balance 104"
+  ],
+  "totalAmount": 330
+}{
+  "companyId": 4,
+  "companyName": "Yellow Frog Inc.",
+  "userEmailed": [],
+  "userNotEmailed": [
+    "Rodriquez,Brent,brent.rodriquez@test.com",
+    "Previous Token Balance ,96",
+    "New Token Balance 129",
+    "Gardner,Alexander,alexander.gardner@demo.com",
+    "Previous Token Balance ,40",
+    "New Token Balance 73",
+    "Knight,Noah,noah.knight@fake.com",
+    "Previous Token Balance ,23",
+    "New Token Balance 56",
+    "Ward,Adrian,adrian.ward@notreal.com",
+    "Previous Token Balance ,25",
+    "New Token Balance 58"
+  ],
+  "totalAmount": 132
+}{
+  "companyId": 5,
+  "companyName": "Purple Fish Inc.",
+  "userEmailed": [
+    "Berry,Paul,paul.berry@notreal.com",
+    "Previous Token Balance ,19",
+    "New Token Balance 101"
+  ],
+  "userNotEmailed": [
+    "Berry,Nicholas,nicholas.berry@notreal.com",
+    "Previous Token Balance ,39",
+    "New Token Balance 121",
+    "Graves,Rachel,rachel.graves@fake.com",
+    "Previous Token Balance ,26",
+    "New Token Balance 108"
+  ],
+  "totalAmount": 246
+}
