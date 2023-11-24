@@ -65,7 +65,7 @@ fs.readFile("./json/companies.json", "utf8", (err, companyJson) => {
             }
         }
         catch (error) {
-            console.error(err);
+            console.error(err + " There was an error parsing the document and the file will not be processes");
         }
     })
 });
