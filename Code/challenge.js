@@ -1,5 +1,4 @@
 const fs = require("fs");
-let companyName = [];
 
 fs.unlinkSync('./output/output.txt'); // delete and create new output file
 function write(data) {   //method to write on the text file
